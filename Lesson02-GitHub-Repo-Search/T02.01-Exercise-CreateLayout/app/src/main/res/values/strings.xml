@@ -15,4 +15,7 @@
   -->
 <resources>
     <string name="app_name">Github Query</string>
+    <string name="main_digite_uma_query">Digite uma query de pesquisa do github</string>
+    <string name="main_search_show_here">Entre com uma pesquisa e sua url aparecerá aqui</string>
+    <string name="main_faca_pesquisa">Faça uma pesquisa</string>
 </resources>
